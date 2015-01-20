@@ -1,0 +1,13 @@
+﻿body {
+}
+#DeficienciesTable {
+    width: 640px;
+}
+
+ td {
+    border: 1px black solid;
+}
+
+ .center {
+     text-align: center;
+ }
